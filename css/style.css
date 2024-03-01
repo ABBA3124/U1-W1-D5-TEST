@@ -43,15 +43,22 @@ main div article p {
 .bottone {
   padding: 37px;
 }
-.bottone button {
-  font-size: 20px;
-  padding: 15px 30px;
-  border-radius: 5px;
-  background-color: #f04c2f;
-  color: white;
-  border: none;
-  font-weight: bold;
-}
+.bottone {
+    display: inline-block;
+    padding: 5px 15px;
+    border-radius: 5px;
+    background-color: #f04c2f;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: transform 0.3s ease-in-out;
+  }
+
+/* prova hover */
+.bottone:hover {
+    transform: scale(1.1);
+  }
 .centrale {
   padding-top: 15%;
 }
