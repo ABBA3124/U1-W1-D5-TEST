@@ -1,0 +1,105 @@
+/* IMPOSTAZIONI GENERALI */
+body {
+  font-family: Poppins, "Helvetica Neue", sans-serif;
+  font-size: 1.2rem;
+  color: #393d41;
+  line-height: 1.5;
+  text-align: center;
+  display: block;
+}
+ul {
+  list-style-type: none;
+}
+/* HEADER */
+header div {
+  background-color: black;
+  padding: 1.5em 0.5em;
+}
+header div img {
+  width: 40%;
+}
+/* main */
+.banner {
+  background-image: url(/images/banner.jpg);
+  background-size: cover;
+  background-position: center;
+}
+main div article {
+  padding: 26px;
+}
+h1,
+h2 {
+  color: #25a2c3;
+  font-weight: bold;
+}
+h1 {
+  font-size: 35px;
+}
+main div article p {
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
+.bottone {
+  padding: 37px;
+}
+.bottone button {
+  font-size: 24px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: #f04c2f;
+  color: white;
+  border: none;
+}
+.centrale {
+  padding-top: 15%;
+}
+main div section div {
+  padding: 3%;
+}
+main div section div img {
+  border-radius: 80%;
+  width: 70%;
+}
+.allertrosso {
+  background-color: #e22d0e;
+  color: white;
+  padding: 8%;
+}
+h3 {
+  font-size: 32px;
+  color: white;
+  font-weight: bold;
+}
+.nnn {
+  font-size: 14px;
+  font-style: italic;
+  padding-top: 5%;
+}
+.n {
+  font-size: 18px;
+  padding-top: 7%;
+}
+.nn {
+  font-size: 13px;
+}
+.colonna {
+  padding: 8%;
+}
+.immaginiincolonna {
+  width: 100%;
+}
+.blocco {
+  border: 1px solid #dee1e3;
+  margin-top: 8%;
+}
+.blocco h2 {
+  padding-top: 5%;
+}
+.blocco p {
+  padding: 6%;
+  font-size: 15px;
+}
+footer {
+  background-color: #25a2c3;
+  padding: 10%;
+}
