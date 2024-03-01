@@ -44,27 +44,27 @@ main div article p {
   padding: 37px;
 }
 .bottone {
-    display: inline-block;
-    padding: 5px 15px;
-    border-radius: 5px;
-    background-color: #f04c2f;
-    color: white;
-    font-size: 20px;
-    font-weight: bold;
-    text-decoration: none;
-    transition: transform 0.3s ease-in-out;
-  }
+  display: inline-block;
+  padding: 5px 15px;
+  border-radius: 5px;
+  background-color: #f04c2f;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: transform 0.3s ease-in-out;
+}
 
 /* prova hover */
 .bottone:hover {
-    transform: scale(1.1);
-  }
+  transform: scale(1.1);
+}
 .centrale {
   padding-top: 15%;
 }
 .centrale h2 {
-    font-size: 22px;
-    padding-bottom: 3%;
+  font-size: 22px;
+  padding-bottom: 3%;
 }
 main div section div {
   padding: 3%;
@@ -75,7 +75,7 @@ main div section div img {
   width: 70%;
 }
 .spazietto {
-    padding-bottom: 10%;
+  padding-bottom: 10%;
 }
 .allertrosso {
   background-color: #e22d0e;
@@ -143,6 +143,7 @@ footer a {
 }
 /*comportamento icone*/
 footer i {
-  color: white; 
-  margin-right: 5px;"
+  color: white;
+  margin-right: 5px;
 }
+/* mi sono dimenticato i font */
