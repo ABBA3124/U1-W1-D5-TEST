@@ -102,4 +102,22 @@ h3 {
 footer {
   background-color: #25a2c3;
   padding: 10%;
+  color: white;
+}
+footer h3 {
+  padding-bottom: 5%;
+  font-size: 45px;
+}
+footer p {
+  padding-top: 5%;
+}
+.riganera {
+  border-top: 1px solid rgb(255, 255, 255);
+  padding-top: 1%;
+  display: inline-block;
+  width: auto;
+  text-align: center;
+}
+footer address {
+  padding-bottom: 10%;
 }
